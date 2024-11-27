@@ -20,8 +20,8 @@ Here are the core features our Spotify-like service will support:
 3. 🔒 **Authentication**: Secure user login.
 4. 📜 **Playlists**: Users can create and manage playlists.
 5. ❤️ **Likes System**: Users can save favorite songs.
-7. 💿 **Albums & Artists**: Songs are grouped under albums and linked to artists.
-8. 🕒 **Listening History**: Track recently played songs.
+6. 💿 **Albums & Artists**: Songs are grouped under albums and linked to artists.
+7. 🕒 **Listening History**: Track recently played songs.
 
 
 ## **Step 2: Define Objects and Attributes**
