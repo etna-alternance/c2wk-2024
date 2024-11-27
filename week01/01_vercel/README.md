@@ -1,7 +1,3 @@
-Here’s the improved and translated README in English:
-
----
-
 # 🌐 Deploying a Portfolio on Vercel 🚀
 
 This guide will walk you through deploying your portfolio using [Vercel](https://vercel.com), GitHub, and a custom domain. Follow these steps to get your project live quickly and professionally!
