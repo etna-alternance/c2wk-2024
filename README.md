@@ -6,7 +6,7 @@ Here is the code and  the concepts seen and discussed during the **Code to Work 
 ## File Structure
 ```
 week01
-├── 01_vercel
-├── 02_how_to_write_a_readme
-└── 03_how_to_build_your_database
+├── 01_Deploying_a_Portfolio_on_Vercel
+├── 02_How_to_write_a_README_file
+└── 03_How_to_build_your_database
 ```
