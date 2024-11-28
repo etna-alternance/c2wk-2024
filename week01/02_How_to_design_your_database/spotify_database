@@ -1,0 +1,51 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table User {
+  id int
+  name string
+  mail string
+  password string
+  create_at timestamp
+}
+
+Table Artist {
+  id int
+  name string
+  genre string
+}
+
+Table Album{
+  id int
+  artist_id int
+  title string
+  create_at timestamp
+  released_date timestamp
+  description string
+}
+
+Table Song{
+  id int 
+  album_id int
+  title string
+  url_image string
+  url_audio string
+  create_at timestamp
+}
+
+Table Playlist{
+  id int
+  author_id string
+  title string
+  descript string
+  genre string
+  create_at timestamp
+  song_id int
+}
+
+
+Ref: Artist.id < Album.artist_id
+Ref: User.id < Playlist.id
+
+Ref: Playlist.song_id < Song.id
+Ref: Song.album_id > Album.id
