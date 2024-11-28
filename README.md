@@ -7,6 +7,7 @@ Here is the code and  the concepts seen and discussed during the **Code to Work 
 ```
 week01
 ├── 01_Deploying_a_Portfolio_on_Vercel
-├── 02_How_to_write_a_README_file
-└── 03_How_to_build_your_database
+├── 02_How_to_build_your_database
+└── 03_How_to_collaborate_with_git
+
 ```
