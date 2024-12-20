@@ -19,6 +19,8 @@ By the end of this workshop, you will:
 
 #### **React Query Overview**
 
+[React Query Docs](https://tanstack.com/query/v3/docs/framework/react/installation)
+
 - **Queries**: Fetch and cache data. Ideal for read operations.
 - **Mutations**: Create, update, or delete data. Focused on write operations.
 - **Keys**: Identify and organize server state for optimal caching and invalidation.
